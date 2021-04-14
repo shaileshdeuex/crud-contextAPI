@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crud-contextAPI/static/css/main.931d81b9.chunk.css",
+    "main.js": "/crud-contextAPI/static/js/main.bb76e6ec.chunk.js",
+    "main.js.map": "/crud-contextAPI/static/js/main.bb76e6ec.chunk.js.map",
+    "runtime-main.js": "/crud-contextAPI/static/js/runtime-main.99aa0513.js",
+    "runtime-main.js.map": "/crud-contextAPI/static/js/runtime-main.99aa0513.js.map",
+    "static/js/2.48567ee3.chunk.js": "/crud-contextAPI/static/js/2.48567ee3.chunk.js",
+    "static/js/2.48567ee3.chunk.js.map": "/crud-contextAPI/static/js/2.48567ee3.chunk.js.map",
+    "static/js/3.76762854.chunk.js": "/crud-contextAPI/static/js/3.76762854.chunk.js",
+    "static/js/3.76762854.chunk.js.map": "/crud-contextAPI/static/js/3.76762854.chunk.js.map",
+    "index.html": "/crud-contextAPI/index.html",
+    "static/css/main.931d81b9.chunk.css.map": "/crud-contextAPI/static/css/main.931d81b9.chunk.css.map",
+    "static/js/2.48567ee3.chunk.js.LICENSE.txt": "/crud-contextAPI/static/js/2.48567ee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99aa0513.js",
+    "static/js/2.48567ee3.chunk.js",
+    "static/css/main.931d81b9.chunk.css",
+    "static/js/main.bb76e6ec.chunk.js"
+  ]
+}

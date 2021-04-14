@@ -1,24 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import { Typography } from "@material-ui/core";
+import "./App.css";
+import AddEmployee from "./component/AddEmployee";
+import EmployeeList from "./component/EmployeeList";
+import { GlobalProvider } from "./context/GlobalState";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <GlobalProvider>
+      <div className="App">
+        <Typography variant="h3">CRUD With React Context API</Typography>
+        <AddEmployee />
+        <EmployeeList />
+      </div>
+    </GlobalProvider>
   );
 }
 
